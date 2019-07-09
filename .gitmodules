@@ -1,3 +1,6 @@
 [submodule "dice-roller"]
 	path = dice-roller
 	url = https://github.com/ananthrajsingh/dice-roller
+[submodule "android-trivia-kotlin"]
+	path = android-trivia-kotlin
+	url = https://github.com/ananthrajsingh/android-trivia-kotlin
