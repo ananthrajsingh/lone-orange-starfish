@@ -4,3 +4,6 @@
 [submodule "android-trivia-kotlin"]
 	path = android-trivia-kotlin
 	url = https://github.com/ananthrajsingh/android-trivia-kotlin
+[submodule "dessert-pusher"]
+	path = dessert-pusher
+	url = https://github.com/ananthrajsingh/dessert-pusher
