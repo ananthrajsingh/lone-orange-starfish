@@ -7,3 +7,6 @@
 [submodule "dessert-pusher"]
 	path = dessert-pusher
 	url = https://github.com/ananthrajsingh/dessert-pusher
+[submodule "guess-it"]
+	path = guess-it
+	url = https://github.com/ananthrajsingh/guess-it
