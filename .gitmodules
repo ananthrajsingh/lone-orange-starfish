@@ -10,3 +10,6 @@
 [submodule "guess-it"]
 	path = guess-it
 	url = https://github.com/ananthrajsingh/guess-it
+[submodule "android-sleep-tracker-kotlin"]
+	path = android-sleep-tracker-kotlin
+	url = https://github.com/ananthrajsingh/android-sleep-tracker-kotlin
