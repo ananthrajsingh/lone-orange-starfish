@@ -13,3 +13,6 @@
 [submodule "android-sleep-tracker-kotlin"]
 	path = android-sleep-tracker-kotlin
 	url = https://github.com/ananthrajsingh/android-sleep-tracker-kotlin
+[submodule "mars-real-estate-kotlin"]
+	path = mars-real-estate-kotlin
+	url = https://github.com/ananthrajsingh/mars-real-estate-kotlin
