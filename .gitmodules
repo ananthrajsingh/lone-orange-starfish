@@ -16,3 +16,6 @@
 [submodule "mars-real-estate-kotlin"]
 	path = mars-real-estate-kotlin
 	url = https://github.com/ananthrajsingh/mars-real-estate-kotlin
+[submodule "dev-bytes-android-kotlin"]
+	path = dev-bytes-android-kotlin
+	url = https://github.com/ananthrajsingh/dev-bytes-android-kotlin
