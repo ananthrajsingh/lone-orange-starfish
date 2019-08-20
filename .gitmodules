@@ -19,3 +19,6 @@
 [submodule "dev-bytes-android-kotlin"]
 	path = dev-bytes-android-kotlin
 	url = https://github.com/ananthrajsingh/dev-bytes-android-kotlin
+[submodule "gdg-finder-android-kotlin"]
+	path = gdg-finder-android-kotlin
+	url = https://github.com/ananthrajsingh/gdg-finder-android-kotlin
